@@ -45,10 +45,6 @@ Created for testing of the company Green
 | `typeservicesId`      | `string` | |
 
 
-#### add(num1, num2)
-
-Recebe dois números e retorna a sua soma.
-
 
 ## install and start
 
