@@ -21,6 +21,6 @@ module.exports = {
     port: 3306,
     username: 'admin',
     password: 'pameladeco',
-    database: 'prod',
+    database: 'Gren',
   },
 }

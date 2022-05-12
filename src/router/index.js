@@ -5,10 +5,7 @@ const User = require('../database/models/user');
 
  /* GET home page. */
 router.get('/', (req, res, next) => {
-  const users = model.Users.findAll().then(response => {
-     console.log(users)
-   })
-   
+   res.send(200)
  });
 
  module.exports = router;
