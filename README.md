@@ -1,7 +1,7 @@
 
 # Api Green
 
-Created for testing of the company Green
+Project Created for testing of the company Green
 
 
 ## API Documentation
